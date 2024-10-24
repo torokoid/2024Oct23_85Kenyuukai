@@ -162,9 +162,12 @@ p.note { display: none; }
 <a href="20241023_014.JPG" target="_blank"><img src="20241023_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_015.JPG" target="_blank"><img src="20241023_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_016.JPG" target="_blank"><img src="20241023_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_017.JPG" target="_blank"><img src="20241023_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ビルの隙間の神社でお参り！</span></h2>
+
+<a href="20241023_017.JPG" target="_blank"><img src="20241023_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">太田記念美術館を見学！</span></h2>
 
 <a href="20241023_018.JPG" target="_blank"><img src="20241023_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_019.JPG" target="_blank"><img src="20241023_019.JPG" alt="サンプル画像" width="900" /></a>
