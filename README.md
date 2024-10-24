@@ -244,12 +244,14 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">以下、動画集！</span></h2>
 
-https://youtube.com/shorts/chLUrT5Eax4
-https://youtube.com/shorts/7W1k9bDNDNc
-https://youtube.com/shorts/Ug08kTsIHsE
-https://youtube.com/shorts/mLliD01rSDY
-https://youtube.com/shorts/H-d2ou8uVcY
-https://youtube.com/shorts/Ug08kTsIHsE
+<a href="https://youtube.com/shorts/chLUrT5Eax4" target="_blank">銀座的衣料品展示</a>
+<a href="https://youtube.com/shorts/7W1k9bDNDNc" target="_blank">銀座的衣料品展示_2</a>
+<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">屋形船</a>
+<a href="https://youtube.com/shorts/mLliD01rSDY" target="_blank">スカイツリー</a>
+<a href="https://youtube.com/shorts/H-d2ou8uVcY" target="_blank">スカイツリー_2</a>
+<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a>
+
+
 
 <!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
