@@ -242,13 +242,13 @@ p.note { display: none; }
 <a href="20241023_067.JPG" target="_blank"><img src="20241023_067.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<h2><span class="yellow">以下、動画集！</span></h2>
+<h2><span class="yellow">以下、動画リンク！</span></h2>
 
-<a href="https://youtube.com/shorts/chLUrT5Eax4" target="_blank">銀座的衣料品展示</a>
-<a href="https://youtube.com/shorts/7W1k9bDNDNc" target="_blank">銀座的衣料品展示_2</a>
-<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">屋形船</a>
-<a href="https://youtube.com/shorts/mLliD01rSDY" target="_blank">スカイツリー</a>
-<a href="https://youtube.com/shorts/H-d2ou8uVcY" target="_blank">スカイツリー_2</a>
+<a href="https://youtube.com/shorts/chLUrT5Eax4" target="_blank">銀座的衣料品展示</a><br>
+<a href="https://youtube.com/shorts/7W1k9bDNDNc" target="_blank">銀座的衣料品展示_2</a><br>
+<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">屋形船</a><br>
+<a href="https://youtube.com/shorts/mLliD01rSDY" target="_blank">スカイツリー</a><br>
+<a href="https://youtube.com/shorts/H-d2ou8uVcY" target="_blank">スカイツリー_2</a><br>
 <a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a>
 
 
