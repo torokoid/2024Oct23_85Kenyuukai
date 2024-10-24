@@ -135,7 +135,7 @@ p.note { display: none; }
 
 <a href="20241023_000.png" target="_blank"><img src="20241023_000.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">鬼怒川河川敷公園！</span></h2>
+<h2><span class="yellow">有楽町駅から集合地点に向かいます！</span></h2>
 
 <a href="20241023_001.JPG" target="_blank"><img src="20241023_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_002.JPG" target="_blank"><img src="20241023_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -143,6 +143,9 @@ p.note { display: none; }
 <a href="20241023_004.JPG" target="_blank"><img src="20241023_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_005.JPG" target="_blank"><img src="20241023_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_006.JPG" target="_blank"><img src="20241023_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">さすが東京、金のベンツがいます！</span></h2>
+
 <a href="20241023_007.JPG" target="_blank"><img src="20241023_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_008.JPG" target="_blank"><img src="20241023_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_009.JPG" target="_blank"><img src="20241023_009.JPG" alt="サンプル画像" width="900" /></a>
