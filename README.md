@@ -241,6 +241,12 @@ p.note { display: none; }
 <a href="20241023_066.JPG" target="_blank"><img src="20241023_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_067.JPG" target="_blank"><img src="20241023_067.JPG" alt="サンプル画像" width="900" /></a>
 
+
+<h2><span class="yellow">アマチュア無線の仕組みで屋形船の移動経路を記録！</span></h2>
+
+<a href="20241023_001.png" target="_blank"><img src="20241023_001.png" alt="サンプル画像" width="900" /></a>
+
+
 <br><br>
 <h2><span class="yellow">以下、動画リンク！</span></h2>
 
