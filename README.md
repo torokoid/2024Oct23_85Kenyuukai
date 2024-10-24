@@ -229,6 +229,24 @@ p.note { display: none; }
 <a href="20241023_075.JPG" target="_blank"><img src="20241023_075.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_076.JPG" target="_blank"><img src="20241023_076.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">ゴーさんスマホ写真！</span></h2>
+
+<a href="20241023_077.JPG" target="_blank"><img src="20241023_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_078.JPG" target="_blank"><img src="20241023_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_079.JPG" target="_blank"><img src="20241023_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_080.JPG" target="_blank"><img src="20241023_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_081.JPG" target="_blank"><img src="20241023_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_082.JPG" target="_blank"><img src="20241023_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_083.JPG" target="_blank"><img src="20241023_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_084.JPG" target="_blank"><img src="20241023_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_085.JPG" target="_blank"><img src="20241023_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_086.JPG" target="_blank"><img src="20241023_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_087.JPG" target="_blank"><img src="20241023_087.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_088.JPG" target="_blank"><img src="20241023_088.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_089.JPG" target="_blank"><img src="20241023_089.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_090.JPG" target="_blank"><img src="20241023_090.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_091.JPG" target="_blank"><img src="20241023_091.JPG" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow">以下、屋形船チケットとパンフ一覧！</span></h2>
 
 <a href="20241023_051.JPG" target="_blank"><img src="20241023_051.JPG" alt="サンプル画像" width="900" /></a>
