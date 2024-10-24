@@ -154,6 +154,9 @@ p.note { display: none; }
 <a href="20241023_009.JPG" target="_blank"><img src="20241023_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_010.JPG" target="_blank"><img src="20241023_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_011.JPG" target="_blank"><img src="20241023_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ウイスキー専門店、400万円の山崎がありました！</span></h2>
+
 <a href="20241023_012.JPG" target="_blank"><img src="20241023_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_013.JPG" target="_blank"><img src="20241023_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_014.JPG" target="_blank"><img src="20241023_014.JPG" alt="サンプル画像" width="900" /></a>
