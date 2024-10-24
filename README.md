@@ -247,6 +247,17 @@ p.note { display: none; }
 <a href="20241023_090.JPG" target="_blank"><img src="20241023_090.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_091.JPG" target="_blank"><img src="20241023_091.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">まっちゃんスマホ写真、昼の部！</span></h2>
+
+<a href="20241023_092.JPG" target="_blank"><img src="20241023_092.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_093.JPG" target="_blank"><img src="20241023_093.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_094.JPG" target="_blank"><img src="20241023_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_095.JPG" target="_blank"><img src="20241023_095.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">なんと、通りすがりの若者がシャッター切ってくれました！</span></h2>
+<a href="20241023_096.JPG" target="_blank"><img src="20241023_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_097.JPG" target="_blank"><img src="20241023_097.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241023_098.JPG" target="_blank"><img src="20241023_098.JPG" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow">以下、屋形船チケットとパンフ一覧！</span></h2>
 
 <a href="20241023_051.JPG" target="_blank"><img src="20241023_051.JPG" alt="サンプル画像" width="900" /></a>
