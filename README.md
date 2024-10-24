@@ -211,11 +211,14 @@ p.note { display: none; }
 <a href="20241023_045.JPG" target="_blank"><img src="20241023_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_046.JPG" target="_blank"><img src="20241023_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_047.JPG" target="_blank"><img src="20241023_047.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">屋形船のデザート！</span></h2>
+
 <a href="20241023_048.JPG" target="_blank"><img src="20241023_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_049.JPG" target="_blank"><img src="20241023_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_050.JPG" target="_blank"><img src="20241023_050.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">以下屋形船チケットとパンフ一覧！</span></h2>
+<h2><span class="yellow">以下、屋形船チケットとパンフ一覧！</span></h2>
 
 <a href="20241023_051.JPG" target="_blank"><img src="20241023_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_052.JPG" target="_blank"><img src="20241023_052.JPG" alt="サンプル画像" width="900" /></a>
@@ -238,7 +241,15 @@ p.note { display: none; }
 <a href="20241023_066.JPG" target="_blank"><img src="20241023_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_067.JPG" target="_blank"><img src="20241023_067.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
+<h2><span class="yellow">以下、動画集！</span></h2>
 
+https://youtube.com/shorts/chLUrT5Eax4
+https://youtube.com/shorts/7W1k9bDNDNc
+https://youtube.com/shorts/Ug08kTsIHsE
+https://youtube.com/shorts/mLliD01rSDY
+https://youtube.com/shorts/H-d2ou8uVcY
+https://youtube.com/shorts/Ug08kTsIHsE
 
 <!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
