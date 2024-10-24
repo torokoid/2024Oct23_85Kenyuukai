@@ -299,6 +299,15 @@ p.note { display: none; }
 <a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a>
 </span></h1>
 
+<h2><span class="yellow">以下、パンフ内リンク！</span></h2>
+
+<h1><span class="yellow">
+<a href="https://www.ukiyoe-ota-muse.jp/" target="_blank">太田記念美術館</a><br>
+<a href="https://www.funasei.com/" target="_blank">屋形船、船清</a><br>
+<a href="http://ginza-espero.com/" target="_blank">レストラン、銀座エスペロ</a>
+</span></h1>
+
+
 
 <!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
