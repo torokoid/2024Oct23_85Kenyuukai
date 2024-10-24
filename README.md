@@ -148,6 +148,9 @@ p.note { display: none; }
 
 <a href="20241023_007.JPG" target="_blank"><img src="20241023_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_008.JPG" target="_blank"><img src="20241023_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">まっちゃん予約のレストランで昼食、しめの料理とデザートを撮影！</span></h2>
+
 <a href="20241023_009.JPG" target="_blank"><img src="20241023_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_010.JPG" target="_blank"><img src="20241023_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241023_011.JPG" target="_blank"><img src="20241023_011.JPG" alt="サンプル画像" width="900" /></a>
