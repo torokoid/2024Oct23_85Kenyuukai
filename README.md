@@ -299,6 +299,7 @@ p.note { display: none; }
 <a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a>
 </span></h1>
 
+<br><br>
 <h2><span class="yellow">以下、パンフ内リンク！</span></h2>
 
 <h1><span class="yellow">
