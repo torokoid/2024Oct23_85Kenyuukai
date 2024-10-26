@@ -288,16 +288,16 @@ p.note { display: none; }
 
 
 <br><br>
-<h2><span class="yellow">以下、動画リンク！</span></h2>
+<h2><span class="yellow">以下、動画リンク！
 
-<h1><span class="yellow">
 <a href="https://youtube.com/shorts/chLUrT5Eax4" target="_blank">銀座的衣料品展示</a><br>
 <a href="https://youtube.com/shorts/7W1k9bDNDNc" target="_blank">銀座的衣料品展示_2</a><br>
-<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">屋形船</a><br>
 <a href="https://youtube.com/shorts/mLliD01rSDY" target="_blank">スカイツリー</a><br>
 <a href="https://youtube.com/shorts/H-d2ou8uVcY" target="_blank">スカイツリー_2</a><br>
-<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a>
-</span></h1>
+<a href="https://youtube.com/shorts/Ug08kTsIHsE" target="_blank">スカイツリー_3</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JvZG1SgI4Mc?si=xyc2i7R0h0iXZ_As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</span></h2>
+
 
 <br><br>
 <h2><span class="yellow">以下、パンフ内リンク！</span></h2>
