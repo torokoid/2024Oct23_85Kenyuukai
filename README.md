@@ -167,6 +167,10 @@ p.note { display: none; }
 
 <a href="20241023_017.JPG" target="_blank"><img src="20241023_017.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">神社の場所はこちら！</span></h2>
+
+<a href="20241026_000.png" target="_blank"><img src="20241026_000.png" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow">太田記念美術館を見学！</span></h2>
 
 <a href="20241023_018.JPG" target="_blank"><img src="20241023_018.JPG" alt="サンプル画像" width="900" /></a>
