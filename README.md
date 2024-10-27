@@ -169,7 +169,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">神社の場所はこちら！</span></h2>
 
-<a href="20241026_000.png" target="_blank"><img src="20241026_000.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/place/豊岩稲荷神社/@35.6682929,139.7582927,1855m/data=!3m1!1e3!4m6!3m5!1s0x60188be89c7c95ef:0xe8f00a8ca24615df!8m2!3d35.6689592!4d139.7621063!16s%2Fg%2F11cjhzj9jr!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241026_000.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">太田記念美術館を見学！</span></h2>
 
